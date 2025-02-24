@@ -19,37 +19,27 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with data, and I have at least learnt
-              something, I think… 🤷‍♂️
+             <b className="purple">Data detective,</b>  finding stories hidden in numbers.
               <br />
-              <br />I am fluent in classics like
+              <br />From hockey fields to data fields, <b className="purple">strategy</b> is my game.
+              <br />
+              <br />
+              Turning <b className="purple">spreadsheets</b> into gold, one <b className="purple">SQL query</b> at a time.
+            
+              <br />
+              <br />
+              Whenever possible, I also apply my hobby for developing <b className="purple">web-apps </b>
+              with <b className="purple">React.js</b> and
+              other websites frameworks.
+             <br/>
+             <br/>
+             My other technical/data related skills are <b className="purple">Power BI, Alteryx, Python </b>expanding and learning everyday.
+              <br/>
+              <br/>
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+              (In short, Jack of all trades, but master in none )
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">

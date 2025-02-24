@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Business Analytics",
           "Data Visualization",
-          "Healthcare Analytics",
+          "Data Modelling",
           "Business Intelligence",
         ],
         autoStart: true,

@@ -11,20 +11,19 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abhay Kumar Gupta </span>
             from <span className="purple"> Varanasi, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a Business Technology Analyst at Deloitte.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed B.Tech in Instrumentation Engineering from NIT Trichy.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Hockey
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Capturing Landscapes
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -32,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Without data, you're just another person with an opinion."{" "}
           </p>
-          <footer className="blockquote-footer">Abhay</footer>
+          <footer className="blockquote-footer">W. Edwards Deming</footer>
         </blockquote>
       </Card.Body>
     </Card>
